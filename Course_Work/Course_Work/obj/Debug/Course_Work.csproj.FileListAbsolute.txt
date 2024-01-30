@@ -1,0 +1,17 @@
+C:\Users\Кирилл\Desktop\Учеба\Бсбд2\Course_Work\Course_Work\bin\Debug\Course_Work.exe.config
+C:\Users\Кирилл\Desktop\Учеба\Бсбд2\Course_Work\Course_Work\bin\Debug\Course_Work.exe
+C:\Users\Кирилл\Desktop\Учеба\Бсбд2\Course_Work\Course_Work\bin\Debug\Course_Work.pdb
+C:\Users\Кирилл\Desktop\Учеба\Бсбд2\Course_Work\Course_Work\obj\Debug\Course_Work.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\Учеба\Бсбд2\Course_Work\Course_Work\obj\Debug\Course_Work.LoginForm.resources
+C:\Users\Кирилл\Desktop\Учеба\Бсбд2\Course_Work\Course_Work\obj\Debug\Course_Work.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\Учеба\Бсбд2\Course_Work\Course_Work\obj\Debug\Course_Work.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\Учеба\Бсбд2\Course_Work\Course_Work\obj\Debug\Course_Work.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Учеба\Бсбд2\Course_Work\Course_Work\obj\Debug\Course_Work.exe
+C:\Users\Кирилл\Desktop\Учеба\Бсбд2\Course_Work\Course_Work\obj\Debug\Course_Work.pdb
+C:\Users\Кирилл\Desktop\Учеба\Бсбд2\Course_Work\Course_Work\obj\Debug\Course_Work.MainForm.resources
+C:\Users\Кирилл\Desktop\Учеба\Бсбд2\Course_Work\Course_Work\obj\Debug\Course_Work.RegForm.resources
+C:\Users\Кирилл\Desktop\Учеба\Бсбд2\Course_Work\Course_Work\obj\Debug\Course_Work.Croupier.resources
+C:\Users\Кирилл\Desktop\Учеба\Бсбд2\Course_Work\Course_Work\obj\Debug\Course_Work.PlayerInGame.resources
+C:\Users\Кирилл\Desktop\Учеба\Бсбд2\Course_Work\Course_Work\obj\Debug\Course_Work.Player.resources
+C:\Users\Кирилл\Desktop\Учеба\Бсбд2\Course_Work\Course_Work\obj\Debug\Course_Work.Game.resources
+C:\Users\Кирилл\Desktop\Учеба\Бсбд2\Course_Work\Course_Work\obj\Debug\Course_Work.TransferDesk.resources
